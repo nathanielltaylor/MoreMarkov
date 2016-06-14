@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["ntaylor390@gmail.com"]
 
   spec.summary       = %q{Simple Markov chain generation.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/nathanielltaylor/MoreMarkov"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
